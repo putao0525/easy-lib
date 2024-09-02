@@ -11,6 +11,7 @@
 #include "easy_bit.h"
 #include "easy_str.h"
 #include "easy_time.h"
+#include "easy_arr.h"
 #include "easy_collection.h"
 
 #endif //EASY_LIB_EASY_TOOLS_H
