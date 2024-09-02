@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "easy_tools.h"
+#include "include/easy_tools.h"
 
 
 void testNumber() {
